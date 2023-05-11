@@ -1,1 +1,1 @@
-# IBM_PY0101EN_Python_for_Data_Science_Cognitive_AI_Course_Practice
+# IBM_PY0101EN_Python_for_Data_Science_Cognitive_Class_AI_Course_Practice
